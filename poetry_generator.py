@@ -1,11 +1,3 @@
-# IAE 101
-# Project 04 - Poetry Generator
-# Name: Jay Chen
-# Student ID: 112890591
-# netid: SHUGCHEN
-# Date: November 11, 2019
-# poetry_generator.py
-
 import nltk
 import pronouncing
 import random
